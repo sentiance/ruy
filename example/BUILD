@@ -1,5 +1,4 @@
 package(
-    default_applicable_licenses = ["//third_party/ruy:license"],
     licenses = ["notice"],  # Apache 2.0
 )
 
